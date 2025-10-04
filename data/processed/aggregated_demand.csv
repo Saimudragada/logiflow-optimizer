@@ -1,0 +1,61 @@
+city,lat,lon,region,service_level,demand,total_weight_kg,total_value
+Austin,30.2672,-97.7431,South,Express,11732,25803.3,1143995
+Austin,30.2672,-97.7431,South,Overnight,3371,7430.4,327945
+Austin,30.2672,-97.7431,South,Standard,24357,53565.1,2374035
+Boston,42.3601,-71.0589,Northeast,Express,8547,18298.5,813865
+Boston,42.3601,-71.0589,Northeast,Overnight,2306,4958.8,217410
+Boston,42.3601,-71.0589,Northeast,Standard,18093,38801.0,1725440
+Charlotte,35.2271,-80.8431,South,Express,10636,23314.6,1032175
+Charlotte,35.2271,-80.8431,South,Overnight,2941,6446.8,285085
+Charlotte,35.2271,-80.8431,South,Standard,22161,48587.7,2154745
+Chicago,41.8781,-87.6298,Midwest,Express,35339,77770.7,3411455
+Chicago,41.8781,-87.6298,Midwest,Overnight,11253,24761.7,1087575
+Chicago,41.8781,-87.6298,Midwest,Standard,71586,157575.4,6910910
+Columbus,39.9612,-82.9988,Midwest,Express,10758,23602.8,1047535
+Columbus,39.9612,-82.9988,Midwest,Overnight,2989,6558.7,292475
+Columbus,39.9612,-82.9988,Midwest,Standard,22428,49200.7,2185080
+Dallas,32.7767,-96.797,South,Express,16421,35967.3,1580340
+Dallas,32.7767,-96.797,South,Overnight,4926,10761.0,473755
+Dallas,32.7767,-96.797,South,Standard,33800,74050.3,3254215
+Denver,39.7392,-104.9903,West,Express,9064,20023.0,994345
+Denver,39.7392,-104.9903,West,Overnight,2470,5456.4,275735
+Denver,39.7392,-104.9903,West,Standard,19057,42131.1,2076230
+Detroit,42.3314,-83.0458,Midwest,Express,7913,17466.7,768280
+Detroit,42.3314,-83.0458,Midwest,Overnight,2146,4755.6,208535
+Detroit,42.3314,-83.0458,Midwest,Standard,16788,37098.9,1630920
+Fort Worth,32.7555,-97.3308,South,Express,11002,24121.7,1065435
+Fort Worth,32.7555,-97.3308,South,Overnight,3069,6725.9,296425
+Fort Worth,32.7555,-97.3308,South,Standard,22923,50268.1,2222720
+Houston,29.7604,-95.3698,South,Express,30061,65806.4,2915365
+Houston,29.7604,-95.3698,South,Overnight,9463,20722.1,918015
+Houston,29.7604,-95.3698,South,Standard,61032,133614.3,5920690
+Jacksonville,30.3322,-81.6557,South,Express,11079,24456.2,1078900
+Jacksonville,30.3322,-81.6557,South,Overnight,3095,6860.3,301295
+Jacksonville,30.3322,-81.6557,South,Standard,23063,50931.9,2244660
+Los Angeles,34.0522,-118.2437,West,Express,54607,120766.2,5885020
+Los Angeles,34.0522,-118.2437,West,Overnight,17653,39067.7,1909465
+Los Angeles,34.0522,-118.2437,West,Standard,110128,243519.8,11859740
+Nashville,36.1627,-86.7816,South,Express,7895,17377.4,764465
+Nashville,36.1627,-86.7816,South,Overnight,2138,4679.9,205110
+Nashville,36.1627,-86.7816,South,Standard,16756,36833.4,1619115
+New York,40.7128,-74.006,Northeast,Express,116755,250856.6,11137635
+New York,40.7128,-74.006,Northeast,Overnight,38385,82447.9,3661460
+New York,40.7128,-74.006,Northeast,Standard,234443,503769.6,22367370
+Philadelphia,39.9526,-75.1652,Northeast,Express,21426,45974.8,2030240
+Philadelphia,39.9526,-75.1652,Northeast,Overnight,6598,14101.1,624155
+Philadelphia,39.9526,-75.1652,Northeast,Standard,43743,93856.6,4147350
+Phoenix,33.4484,-112.074,West,Express,21926,48641.5,2396245
+Phoenix,33.4484,-112.074,West,Overnight,6768,15025.2,744850
+Phoenix,33.4484,-112.074,West,Standard,44777,99344.1,4881910
+San Antonio,29.4241,-98.4936,South,Express,19187,42417.6,1870675
+San Antonio,29.4241,-98.4936,South,Overnight,5840,12913.0,570080
+San Antonio,29.4241,-98.4936,South,Standard,39326,86903.6,3832030
+San Diego,32.7157,-117.1611,West,Express,18905,41829.4,2049625
+San Diego,32.7157,-117.1611,West,Overnight,5751,12739.2,627405
+San Diego,32.7157,-117.1611,West,Standard,38709,85628.5,4184450
+San Jose,37.3382,-121.8863,West,Express,13207,29242.9,1438620
+San Jose,37.3382,-121.8863,West,Overnight,3850,8548.5,428595
+San Jose,37.3382,-121.8863,West,Standard,27336,60512.2,2974345
+Seattle,47.6062,-122.3321,West,Express,9633,21293.6,1059275
+Seattle,47.6062,-122.3321,West,Overnight,2646,5865.5,301520
+Seattle,47.6062,-122.3321,West,Standard,20194,44630.2,2202680

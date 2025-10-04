@@ -1,0 +1,11 @@
+warehouse,lat,lon,region,fixed_cost_annual
+Memphis_TN,35.1495,-90.049,South,1200000
+Indianapolis_IN,39.7684,-86.1581,Midwest,1000000
+Atlanta_GA,33.749,-84.388,South,1300000
+Kansas_City_MO,39.0997,-94.5786,Midwest,950000
+Columbus_OH,39.9612,-82.9988,Midwest,1000000
+Dallas_TX,32.7767,-96.797,South,1100000
+Reno_NV,39.5296,-119.8138,West,1150000
+Phoenix_AZ,33.4484,-112.074,West,1050000
+Harrisburg_PA,40.2732,-76.8867,Northeast,1100000
+Allentown_PA,40.6023,-75.4714,Northeast,1050000

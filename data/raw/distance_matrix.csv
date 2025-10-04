@@ -1,0 +1,601 @@
+warehouse,warehouse_lat,warehouse_lon,warehouse_region,warehouse_fixed_cost,customer_city,customer_lat,customer_lon,customer_region,distance_km,service_level,service_days,transport_cost_per_shipment
+Memphis_TN,35.1495,-90.049,South,1200000,New York,40.7128,-74.006,Northeast,1534.01,Standard,5,3.37
+Memphis_TN,35.1495,-90.049,South,1200000,New York,40.7128,-74.006,Northeast,1534.01,Express,2,6.07
+Memphis_TN,35.1495,-90.049,South,1200000,New York,40.7128,-74.006,Northeast,1534.01,Overnight,1,10.12
+Memphis_TN,35.1495,-90.049,South,1200000,Los Angeles,34.0522,-118.2437,West,2574.86,Standard,5,6.69
+Memphis_TN,35.1495,-90.049,South,1200000,Los Angeles,34.0522,-118.2437,West,2574.86,Express,2,12.05
+Memphis_TN,35.1495,-90.049,South,1200000,Los Angeles,34.0522,-118.2437,West,2574.86,Overnight,1,20.08
+Memphis_TN,35.1495,-90.049,South,1200000,Chicago,41.8781,-87.6298,Midwest,777.13,Standard,5,1.55
+Memphis_TN,35.1495,-90.049,South,1200000,Chicago,41.8781,-87.6298,Midwest,777.13,Express,2,2.8
+Memphis_TN,35.1495,-90.049,South,1200000,Chicago,41.8781,-87.6298,Midwest,777.13,Overnight,1,4.66
+Memphis_TN,35.1495,-90.049,South,1200000,Houston,29.7604,-95.3698,South,779.66,Standard,5,1.56
+Memphis_TN,35.1495,-90.049,South,1200000,Houston,29.7604,-95.3698,South,779.66,Express,2,2.81
+Memphis_TN,35.1495,-90.049,South,1200000,Houston,29.7604,-95.3698,South,779.66,Overnight,1,4.68
+Memphis_TN,35.1495,-90.049,South,1200000,Phoenix,33.4484,-112.074,West,2027.87,Standard,5,5.27
+Memphis_TN,35.1495,-90.049,South,1200000,Phoenix,33.4484,-112.074,West,2027.87,Express,2,9.49
+Memphis_TN,35.1495,-90.049,South,1200000,Phoenix,33.4484,-112.074,West,2027.87,Overnight,1,15.82
+Memphis_TN,35.1495,-90.049,South,1200000,Philadelphia,39.9526,-75.1652,Northeast,1414.37,Standard,5,3.11
+Memphis_TN,35.1495,-90.049,South,1200000,Philadelphia,39.9526,-75.1652,Northeast,1414.37,Express,2,5.6
+Memphis_TN,35.1495,-90.049,South,1200000,Philadelphia,39.9526,-75.1652,Northeast,1414.37,Overnight,1,9.33
+Memphis_TN,35.1495,-90.049,South,1200000,San Antonio,29.4241,-98.4936,South,1016.84,Standard,5,2.24
+Memphis_TN,35.1495,-90.049,South,1200000,San Antonio,29.4241,-98.4936,South,1016.84,Express,2,4.03
+Memphis_TN,35.1495,-90.049,South,1200000,San Antonio,29.4241,-98.4936,South,1016.84,Overnight,1,6.71
+Memphis_TN,35.1495,-90.049,South,1200000,San Diego,32.7157,-117.1611,West,2508.12,Standard,5,6.52
+Memphis_TN,35.1495,-90.049,South,1200000,San Diego,32.7157,-117.1611,West,2508.12,Express,2,11.74
+Memphis_TN,35.1495,-90.049,South,1200000,San Diego,32.7157,-117.1611,West,2508.12,Overnight,1,19.56
+Memphis_TN,35.1495,-90.049,South,1200000,Dallas,32.7767,-96.797,South,675.75,Standard,5,1.35
+Memphis_TN,35.1495,-90.049,South,1200000,Dallas,32.7767,-96.797,South,675.75,Express,2,2.43
+Memphis_TN,35.1495,-90.049,South,1200000,Dallas,32.7767,-96.797,South,675.75,Overnight,1,4.05
+Memphis_TN,35.1495,-90.049,South,1200000,San Jose,37.3382,-121.8863,West,2852.02,Standard,5,7.42
+Memphis_TN,35.1495,-90.049,South,1200000,San Jose,37.3382,-121.8863,West,2852.02,Express,2,13.35
+Memphis_TN,35.1495,-90.049,South,1200000,San Jose,37.3382,-121.8863,West,2852.02,Overnight,1,22.25
+Memphis_TN,35.1495,-90.049,South,1200000,Austin,30.2672,-97.7431,South,901.13,Standard,5,1.8
+Memphis_TN,35.1495,-90.049,South,1200000,Austin,30.2672,-97.7431,South,901.13,Express,2,3.24
+Memphis_TN,35.1495,-90.049,South,1200000,Austin,30.2672,-97.7431,South,901.13,Overnight,1,5.41
+Memphis_TN,35.1495,-90.049,South,1200000,Jacksonville,30.3322,-81.6557,South,949.76,Standard,5,1.9
+Memphis_TN,35.1495,-90.049,South,1200000,Jacksonville,30.3322,-81.6557,South,949.76,Express,2,3.42
+Memphis_TN,35.1495,-90.049,South,1200000,Jacksonville,30.3322,-81.6557,South,949.76,Overnight,1,5.7
+Memphis_TN,35.1495,-90.049,South,1200000,Fort Worth,32.7555,-97.3308,South,722.24,Standard,5,1.44
+Memphis_TN,35.1495,-90.049,South,1200000,Fort Worth,32.7555,-97.3308,South,722.24,Express,2,2.6
+Memphis_TN,35.1495,-90.049,South,1200000,Fort Worth,32.7555,-97.3308,South,722.24,Overnight,1,4.33
+Memphis_TN,35.1495,-90.049,South,1200000,Columbus,39.9612,-82.9988,Midwest,819.57,Standard,5,1.64
+Memphis_TN,35.1495,-90.049,South,1200000,Columbus,39.9612,-82.9988,Midwest,819.57,Express,2,2.95
+Memphis_TN,35.1495,-90.049,South,1200000,Columbus,39.9612,-82.9988,Midwest,819.57,Overnight,1,4.92
+Memphis_TN,35.1495,-90.049,South,1200000,Charlotte,35.2271,-80.8431,South,836.34,Standard,5,1.67
+Memphis_TN,35.1495,-90.049,South,1200000,Charlotte,35.2271,-80.8431,South,836.34,Express,2,3.01
+Memphis_TN,35.1495,-90.049,South,1200000,Charlotte,35.2271,-80.8431,South,836.34,Overnight,1,5.02
+Memphis_TN,35.1495,-90.049,South,1200000,Seattle,47.6062,-122.3321,West,2998.95,Standard,5,7.8
+Memphis_TN,35.1495,-90.049,South,1200000,Seattle,47.6062,-122.3321,West,2998.95,Express,2,14.04
+Memphis_TN,35.1495,-90.049,South,1200000,Seattle,47.6062,-122.3321,West,2998.95,Overnight,1,23.39
+Memphis_TN,35.1495,-90.049,South,1200000,Denver,39.7392,-104.9903,West,1412.14,Standard,5,3.11
+Memphis_TN,35.1495,-90.049,South,1200000,Denver,39.7392,-104.9903,West,1412.14,Express,2,5.59
+Memphis_TN,35.1495,-90.049,South,1200000,Denver,39.7392,-104.9903,West,1412.14,Overnight,1,9.32
+Memphis_TN,35.1495,-90.049,South,1200000,Boston,42.3601,-71.0589,Northeast,1825.97,Standard,5,4.02
+Memphis_TN,35.1495,-90.049,South,1200000,Boston,42.3601,-71.0589,Northeast,1825.97,Express,2,7.23
+Memphis_TN,35.1495,-90.049,South,1200000,Boston,42.3601,-71.0589,Northeast,1825.97,Overnight,1,12.05
+Memphis_TN,35.1495,-90.049,South,1200000,Nashville,36.1627,-86.7816,South,315.95,Standard,5,0.63
+Memphis_TN,35.1495,-90.049,South,1200000,Nashville,36.1627,-86.7816,South,315.95,Express,2,1.14
+Memphis_TN,35.1495,-90.049,South,1200000,Nashville,36.1627,-86.7816,South,315.95,Overnight,1,1.9
+Memphis_TN,35.1495,-90.049,South,1200000,Detroit,42.3314,-83.0458,Midwest,1002.54,Standard,5,2.21
+Memphis_TN,35.1495,-90.049,South,1200000,Detroit,42.3314,-83.0458,Midwest,1002.54,Express,2,3.97
+Memphis_TN,35.1495,-90.049,South,1200000,Detroit,42.3314,-83.0458,Midwest,1002.54,Overnight,1,6.62
+Indianapolis_IN,39.7684,-86.1581,Midwest,1000000,New York,40.7128,-74.006,Northeast,1035.95,Standard,5,2.28
+Indianapolis_IN,39.7684,-86.1581,Midwest,1000000,New York,40.7128,-74.006,Northeast,1035.95,Express,2,4.1
+Indianapolis_IN,39.7684,-86.1581,Midwest,1000000,New York,40.7128,-74.006,Northeast,1035.95,Overnight,1,6.84
+Indianapolis_IN,39.7684,-86.1581,Midwest,1000000,Los Angeles,34.0522,-118.2437,West,2906.15,Standard,5,7.56
+Indianapolis_IN,39.7684,-86.1581,Midwest,1000000,Los Angeles,34.0522,-118.2437,West,2906.15,Express,2,13.6
+Indianapolis_IN,39.7684,-86.1581,Midwest,1000000,Los Angeles,34.0522,-118.2437,West,2906.15,Overnight,1,22.67
+Indianapolis_IN,39.7684,-86.1581,Midwest,1000000,Chicago,41.8781,-87.6298,Midwest,265.26,Standard,5,0.53
+Indianapolis_IN,39.7684,-86.1581,Midwest,1000000,Chicago,41.8781,-87.6298,Midwest,265.26,Express,2,0.95
+Indianapolis_IN,39.7684,-86.1581,Midwest,1000000,Chicago,41.8781,-87.6298,Midwest,265.26,Overnight,1,1.59
+Indianapolis_IN,39.7684,-86.1581,Midwest,1000000,Houston,29.7604,-95.3698,South,1393.4,Standard,5,3.07
+Indianapolis_IN,39.7684,-86.1581,Midwest,1000000,Houston,29.7604,-95.3698,South,1393.4,Express,2,5.52
+Indianapolis_IN,39.7684,-86.1581,Midwest,1000000,Houston,29.7604,-95.3698,South,1393.4,Overnight,1,9.2
+Indianapolis_IN,39.7684,-86.1581,Midwest,1000000,Phoenix,33.4484,-112.074,West,2407.84,Standard,5,6.26
+Indianapolis_IN,39.7684,-86.1581,Midwest,1000000,Phoenix,33.4484,-112.074,West,2407.84,Express,2,11.27
+Indianapolis_IN,39.7684,-86.1581,Midwest,1000000,Phoenix,33.4484,-112.074,West,2407.84,Overnight,1,18.78
+Indianapolis_IN,39.7684,-86.1581,Midwest,1000000,Philadelphia,39.9526,-75.1652,Northeast,937.92,Standard,5,1.88
+Indianapolis_IN,39.7684,-86.1581,Midwest,1000000,Philadelphia,39.9526,-75.1652,Northeast,937.92,Express,2,3.38
+Indianapolis_IN,39.7684,-86.1581,Midwest,1000000,Philadelphia,39.9526,-75.1652,Northeast,937.92,Overnight,1,5.63
+Indianapolis_IN,39.7684,-86.1581,Midwest,1000000,San Antonio,29.4241,-98.4936,South,1608.69,Standard,5,3.54
+Indianapolis_IN,39.7684,-86.1581,Midwest,1000000,San Antonio,29.4241,-98.4936,South,1608.69,Express,2,6.37
+Indianapolis_IN,39.7684,-86.1581,Midwest,1000000,San Antonio,29.4241,-98.4936,South,1608.69,Overnight,1,10.62
+Indianapolis_IN,39.7684,-86.1581,Midwest,1000000,San Diego,32.7157,-117.1611,West,2872.82,Standard,5,7.47
+Indianapolis_IN,39.7684,-86.1581,Midwest,1000000,San Diego,32.7157,-117.1611,West,2872.82,Express,2,13.44
+Indianapolis_IN,39.7684,-86.1581,Midwest,1000000,San Diego,32.7157,-117.1611,West,2872.82,Overnight,1,22.41
+Indianapolis_IN,39.7684,-86.1581,Midwest,1000000,Dallas,32.7767,-96.797,South,1228.89,Standard,5,2.7
+Indianapolis_IN,39.7684,-86.1581,Midwest,1000000,Dallas,32.7767,-96.797,South,1228.89,Express,2,4.87
+Indianapolis_IN,39.7684,-86.1581,Midwest,1000000,Dallas,32.7767,-96.797,South,1228.89,Overnight,1,8.11
+Indianapolis_IN,39.7684,-86.1581,Midwest,1000000,San Jose,37.3382,-121.8863,West,3097.98,Standard,5,8.05
+Indianapolis_IN,39.7684,-86.1581,Midwest,1000000,San Jose,37.3382,-121.8863,West,3097.98,Express,2,14.5
+Indianapolis_IN,39.7684,-86.1581,Midwest,1000000,San Jose,37.3382,-121.8863,West,3097.98,Overnight,1,24.16
+Indianapolis_IN,39.7684,-86.1581,Midwest,1000000,Austin,30.2672,-97.7431,South,1490.51,Standard,5,3.28
+Indianapolis_IN,39.7684,-86.1581,Midwest,1000000,Austin,30.2672,-97.7431,South,1490.51,Express,2,5.9
+Indianapolis_IN,39.7684,-86.1581,Midwest,1000000,Austin,30.2672,-97.7431,South,1490.51,Overnight,1,9.84
+Indianapolis_IN,39.7684,-86.1581,Midwest,1000000,Jacksonville,30.3322,-81.6557,South,1126.03,Standard,5,2.48
+Indianapolis_IN,39.7684,-86.1581,Midwest,1000000,Jacksonville,30.3322,-81.6557,South,1126.03,Express,2,4.46
+Indianapolis_IN,39.7684,-86.1581,Midwest,1000000,Jacksonville,30.3322,-81.6557,South,1126.03,Overnight,1,7.43
+Indianapolis_IN,39.7684,-86.1581,Midwest,1000000,Fort Worth,32.7555,-97.3308,South,1267.74,Standard,5,2.79
+Indianapolis_IN,39.7684,-86.1581,Midwest,1000000,Fort Worth,32.7555,-97.3308,South,1267.74,Express,2,5.02
+Indianapolis_IN,39.7684,-86.1581,Midwest,1000000,Fort Worth,32.7555,-97.3308,South,1267.74,Overnight,1,8.37
+Indianapolis_IN,39.7684,-86.1581,Midwest,1000000,Columbus,39.9612,-82.9988,Midwest,270.48,Standard,5,0.54
+Indianapolis_IN,39.7684,-86.1581,Midwest,1000000,Columbus,39.9612,-82.9988,Midwest,270.48,Express,2,0.97
+Indianapolis_IN,39.7684,-86.1581,Midwest,1000000,Columbus,39.9612,-82.9988,Midwest,270.48,Overnight,1,1.62
+Indianapolis_IN,39.7684,-86.1581,Midwest,1000000,Charlotte,35.2271,-80.8431,South,688.82,Standard,5,1.38
+Indianapolis_IN,39.7684,-86.1581,Midwest,1000000,Charlotte,35.2271,-80.8431,South,688.82,Express,2,2.48
+Indianapolis_IN,39.7684,-86.1581,Midwest,1000000,Charlotte,35.2271,-80.8431,South,688.82,Overnight,1,4.13
+Indianapolis_IN,39.7684,-86.1581,Midwest,1000000,Seattle,47.6062,-122.3321,West,3005.75,Standard,5,7.81
+Indianapolis_IN,39.7684,-86.1581,Midwest,1000000,Seattle,47.6062,-122.3321,West,3005.75,Express,2,14.07
+Indianapolis_IN,39.7684,-86.1581,Midwest,1000000,Seattle,47.6062,-122.3321,West,3005.75,Overnight,1,23.44
+Indianapolis_IN,39.7684,-86.1581,Midwest,1000000,Denver,39.7392,-104.9903,West,1606.92,Standard,5,3.54
+Indianapolis_IN,39.7684,-86.1581,Midwest,1000000,Denver,39.7392,-104.9903,West,1606.92,Express,2,6.36
+Indianapolis_IN,39.7684,-86.1581,Midwest,1000000,Denver,39.7392,-104.9903,West,1606.92,Overnight,1,10.61
+Indianapolis_IN,39.7684,-86.1581,Midwest,1000000,Boston,42.3601,-71.0589,Northeast,1296.38,Standard,5,2.85
+Indianapolis_IN,39.7684,-86.1581,Midwest,1000000,Boston,42.3601,-71.0589,Northeast,1296.38,Express,2,5.13
+Indianapolis_IN,39.7684,-86.1581,Midwest,1000000,Boston,42.3601,-71.0589,Northeast,1296.38,Overnight,1,8.56
+Indianapolis_IN,39.7684,-86.1581,Midwest,1000000,Nashville,36.1627,-86.7816,South,404.64,Standard,5,0.81
+Indianapolis_IN,39.7684,-86.1581,Midwest,1000000,Nashville,36.1627,-86.7816,South,404.64,Express,2,1.46
+Indianapolis_IN,39.7684,-86.1581,Midwest,1000000,Nashville,36.1627,-86.7816,South,404.64,Overnight,1,2.43
+Indianapolis_IN,39.7684,-86.1581,Midwest,1000000,Detroit,42.3314,-83.0458,Midwest,386.38,Standard,5,0.77
+Indianapolis_IN,39.7684,-86.1581,Midwest,1000000,Detroit,42.3314,-83.0458,Midwest,386.38,Express,2,1.39
+Indianapolis_IN,39.7684,-86.1581,Midwest,1000000,Detroit,42.3314,-83.0458,Midwest,386.38,Overnight,1,2.32
+Atlanta_GA,33.749,-84.388,South,1300000,New York,40.7128,-74.006,Northeast,1200.32,Standard,5,2.64
+Atlanta_GA,33.749,-84.388,South,1300000,New York,40.7128,-74.006,Northeast,1200.32,Express,2,4.75
+Atlanta_GA,33.749,-84.388,South,1300000,New York,40.7128,-74.006,Northeast,1200.32,Overnight,1,7.92
+Atlanta_GA,33.749,-84.388,South,1300000,Los Angeles,34.0522,-118.2437,West,3110.33,Standard,5,8.09
+Atlanta_GA,33.749,-84.388,South,1300000,Los Angeles,34.0522,-118.2437,West,3110.33,Express,2,14.56
+Atlanta_GA,33.749,-84.388,South,1300000,Los Angeles,34.0522,-118.2437,West,3110.33,Overnight,1,24.26
+Atlanta_GA,33.749,-84.388,South,1300000,Chicago,41.8781,-87.6298,Midwest,947.51,Standard,5,1.9
+Atlanta_GA,33.749,-84.388,South,1300000,Chicago,41.8781,-87.6298,Midwest,947.51,Express,2,3.41
+Atlanta_GA,33.749,-84.388,South,1300000,Chicago,41.8781,-87.6298,Midwest,947.51,Overnight,1,5.69
+Atlanta_GA,33.749,-84.388,South,1300000,Houston,29.7604,-95.3698,South,1128.26,Standard,5,2.48
+Atlanta_GA,33.749,-84.388,South,1300000,Houston,29.7604,-95.3698,South,1128.26,Express,2,4.47
+Atlanta_GA,33.749,-84.388,South,1300000,Houston,29.7604,-95.3698,South,1128.26,Overnight,1,7.45
+Atlanta_GA,33.749,-84.388,South,1300000,Phoenix,33.4484,-112.074,West,2556.68,Standard,5,6.65
+Atlanta_GA,33.749,-84.388,South,1300000,Phoenix,33.4484,-112.074,West,2556.68,Express,2,11.97
+Atlanta_GA,33.749,-84.388,South,1300000,Phoenix,33.4484,-112.074,West,2556.68,Overnight,1,19.94
+Atlanta_GA,33.749,-84.388,South,1300000,Philadelphia,39.9526,-75.1652,Northeast,1070.97,Standard,5,2.36
+Atlanta_GA,33.749,-84.388,South,1300000,Philadelphia,39.9526,-75.1652,Northeast,1070.97,Express,2,4.24
+Atlanta_GA,33.749,-84.388,South,1300000,Philadelphia,39.9526,-75.1652,Northeast,1070.97,Overnight,1,7.07
+Atlanta_GA,33.749,-84.388,South,1300000,San Antonio,29.4241,-98.4936,South,1418.5,Standard,5,3.12
+Atlanta_GA,33.749,-84.388,South,1300000,San Antonio,29.4241,-98.4936,South,1418.5,Express,2,5.62
+Atlanta_GA,33.749,-84.388,South,1300000,San Antonio,29.4241,-98.4936,South,1418.5,Overnight,1,9.36
+Atlanta_GA,33.749,-84.388,South,1300000,San Diego,32.7157,-117.1611,West,3037.53,Standard,5,7.9
+Atlanta_GA,33.749,-84.388,South,1300000,San Diego,32.7157,-117.1611,West,3037.53,Express,2,14.22
+Atlanta_GA,33.749,-84.388,South,1300000,San Diego,32.7157,-117.1611,West,3037.53,Overnight,1,23.69
+Atlanta_GA,33.749,-84.388,South,1300000,Dallas,32.7767,-96.797,South,1158.1,Standard,5,2.55
+Atlanta_GA,33.749,-84.388,South,1300000,Dallas,32.7767,-96.797,South,1158.1,Express,2,4.59
+Atlanta_GA,33.749,-84.388,South,1300000,Dallas,32.7767,-96.797,South,1158.1,Overnight,1,7.64
+Atlanta_GA,33.749,-84.388,South,1300000,San Jose,37.3382,-121.8863,West,3393.82,Standard,5,8.82
+Atlanta_GA,33.749,-84.388,South,1300000,San Jose,37.3382,-121.8863,West,3393.82,Express,2,15.88
+Atlanta_GA,33.749,-84.388,South,1300000,San Jose,37.3382,-121.8863,West,3393.82,Overnight,1,26.47
+Atlanta_GA,33.749,-84.388,South,1300000,Austin,30.2672,-97.7431,South,1316.26,Standard,5,2.9
+Atlanta_GA,33.749,-84.388,South,1300000,Austin,30.2672,-97.7431,South,1316.26,Express,2,5.21
+Atlanta_GA,33.749,-84.388,South,1300000,Austin,30.2672,-97.7431,South,1316.26,Overnight,1,8.69
+Atlanta_GA,33.749,-84.388,South,1300000,Jacksonville,30.3322,-81.6557,South,458.94,Standard,5,0.92
+Atlanta_GA,33.749,-84.388,South,1300000,Jacksonville,30.3322,-81.6557,South,458.94,Express,2,1.65
+Atlanta_GA,33.749,-84.388,South,1300000,Jacksonville,30.3322,-81.6557,South,458.94,Overnight,1,2.75
+Atlanta_GA,33.749,-84.388,South,1300000,Fort Worth,32.7555,-97.3308,South,1207.79,Standard,5,2.66
+Atlanta_GA,33.749,-84.388,South,1300000,Fort Worth,32.7555,-97.3308,South,1207.79,Express,2,4.78
+Atlanta_GA,33.749,-84.388,South,1300000,Fort Worth,32.7555,-97.3308,South,1207.79,Overnight,1,7.97
+Atlanta_GA,33.749,-84.388,South,1300000,Columbus,39.9612,-82.9988,Midwest,701.71,Standard,5,1.4
+Atlanta_GA,33.749,-84.388,South,1300000,Columbus,39.9612,-82.9988,Midwest,701.71,Express,2,2.53
+Atlanta_GA,33.749,-84.388,South,1300000,Columbus,39.9612,-82.9988,Midwest,701.71,Overnight,1,4.21
+Atlanta_GA,33.749,-84.388,South,1300000,Charlotte,35.2271,-80.8431,South,364.07,Standard,5,0.73
+Atlanta_GA,33.749,-84.388,South,1300000,Charlotte,35.2271,-80.8431,South,364.07,Express,2,1.31
+Atlanta_GA,33.749,-84.388,South,1300000,Charlotte,35.2271,-80.8431,South,364.07,Overnight,1,2.18
+Atlanta_GA,33.749,-84.388,South,1300000,Seattle,47.6062,-122.3321,West,3505.68,Standard,5,9.11
+Atlanta_GA,33.749,-84.388,South,1300000,Seattle,47.6062,-122.3321,West,3505.68,Express,2,16.41
+Atlanta_GA,33.749,-84.388,South,1300000,Seattle,47.6062,-122.3321,West,3505.68,Overnight,1,27.34
+Atlanta_GA,33.749,-84.388,South,1300000,Denver,39.7392,-104.9903,West,1947.36,Standard,5,4.28
+Atlanta_GA,33.749,-84.388,South,1300000,Denver,39.7392,-104.9903,West,1947.36,Express,2,7.71
+Atlanta_GA,33.749,-84.388,South,1300000,Denver,39.7392,-104.9903,West,1947.36,Overnight,1,12.85
+Atlanta_GA,33.749,-84.388,South,1300000,Boston,42.3601,-71.0589,Northeast,1506.4,Standard,5,3.31
+Atlanta_GA,33.749,-84.388,South,1300000,Boston,42.3601,-71.0589,Northeast,1506.4,Express,2,5.97
+Atlanta_GA,33.749,-84.388,South,1300000,Boston,42.3601,-71.0589,Northeast,1506.4,Overnight,1,9.94
+Atlanta_GA,33.749,-84.388,South,1300000,Nashville,36.1627,-86.7816,South,345.83,Standard,5,0.69
+Atlanta_GA,33.749,-84.388,South,1300000,Nashville,36.1627,-86.7816,South,345.83,Express,2,1.24
+Atlanta_GA,33.749,-84.388,South,1300000,Nashville,36.1627,-86.7816,South,345.83,Overnight,1,2.07
+Atlanta_GA,33.749,-84.388,South,1300000,Detroit,42.3314,-83.0458,Midwest,961.49,Standard,5,1.92
+Atlanta_GA,33.749,-84.388,South,1300000,Detroit,42.3314,-83.0458,Midwest,961.49,Express,2,3.46
+Atlanta_GA,33.749,-84.388,South,1300000,Detroit,42.3314,-83.0458,Midwest,961.49,Overnight,1,5.77
+Kansas_City_MO,39.0997,-94.5786,Midwest,950000,New York,40.7128,-74.006,Northeast,1759.86,Standard,5,3.87
+Kansas_City_MO,39.0997,-94.5786,Midwest,950000,New York,40.7128,-74.006,Northeast,1759.86,Express,2,6.97
+Kansas_City_MO,39.0997,-94.5786,Midwest,950000,New York,40.7128,-74.006,Northeast,1759.86,Overnight,1,11.62
+Kansas_City_MO,39.0997,-94.5786,Midwest,950000,Los Angeles,34.0522,-118.2437,West,2179.52,Standard,5,5.67
+Kansas_City_MO,39.0997,-94.5786,Midwest,950000,Los Angeles,34.0522,-118.2437,West,2179.52,Express,2,10.2
+Kansas_City_MO,39.0997,-94.5786,Midwest,950000,Los Angeles,34.0522,-118.2437,West,2179.52,Overnight,1,17.0
+Kansas_City_MO,39.0997,-94.5786,Midwest,950000,Chicago,41.8781,-87.6298,Midwest,663.61,Standard,5,1.33
+Kansas_City_MO,39.0997,-94.5786,Midwest,950000,Chicago,41.8781,-87.6298,Midwest,663.61,Express,2,2.39
+Kansas_City_MO,39.0997,-94.5786,Midwest,950000,Chicago,41.8781,-87.6298,Midwest,663.61,Overnight,1,3.98
+Kansas_City_MO,39.0997,-94.5786,Midwest,950000,Houston,29.7604,-95.3698,South,1041.0,Standard,5,2.29
+Kansas_City_MO,39.0997,-94.5786,Midwest,950000,Houston,29.7604,-95.3698,South,1041.0,Express,2,4.12
+Kansas_City_MO,39.0997,-94.5786,Midwest,950000,Houston,29.7604,-95.3698,South,1041.0,Overnight,1,6.87
+Kansas_City_MO,39.0997,-94.5786,Midwest,950000,Phoenix,33.4484,-112.074,West,1686.04,Standard,5,3.71
+Kansas_City_MO,39.0997,-94.5786,Midwest,950000,Phoenix,33.4484,-112.074,West,1686.04,Express,2,6.68
+Kansas_City_MO,39.0997,-94.5786,Midwest,950000,Phoenix,33.4484,-112.074,West,1686.04,Overnight,1,11.13
+Kansas_City_MO,39.0997,-94.5786,Midwest,950000,Philadelphia,39.9526,-75.1652,Northeast,1664.47,Standard,5,3.66
+Kansas_City_MO,39.0997,-94.5786,Midwest,950000,Philadelphia,39.9526,-75.1652,Northeast,1664.47,Express,2,6.59
+Kansas_City_MO,39.0997,-94.5786,Midwest,950000,Philadelphia,39.9526,-75.1652,Northeast,1664.47,Overnight,1,10.99
+Kansas_City_MO,39.0997,-94.5786,Midwest,950000,San Antonio,29.4241,-98.4936,South,1134.11,Standard,5,2.5
+Kansas_City_MO,39.0997,-94.5786,Midwest,950000,San Antonio,29.4241,-98.4936,South,1134.11,Express,2,4.49
+Kansas_City_MO,39.0997,-94.5786,Midwest,950000,San Antonio,29.4241,-98.4936,South,1134.11,Overnight,1,7.49
+Kansas_City_MO,39.0997,-94.5786,Midwest,950000,San Diego,32.7157,-117.1611,West,2147.3,Standard,5,5.58
+Kansas_City_MO,39.0997,-94.5786,Midwest,950000,San Diego,32.7157,-117.1611,West,2147.3,Express,2,10.05
+Kansas_City_MO,39.0997,-94.5786,Midwest,950000,San Diego,32.7157,-117.1611,West,2147.3,Overnight,1,16.75
+Kansas_City_MO,39.0997,-94.5786,Midwest,950000,Dallas,32.7767,-96.797,South,730.83,Standard,5,1.46
+Kansas_City_MO,39.0997,-94.5786,Midwest,950000,Dallas,32.7767,-96.797,South,730.83,Express,2,2.63
+Kansas_City_MO,39.0997,-94.5786,Midwest,950000,Dallas,32.7767,-96.797,South,730.83,Overnight,1,4.38
+Kansas_City_MO,39.0997,-94.5786,Midwest,950000,San Jose,37.3382,-121.8863,West,2384.65,Standard,5,6.2
+Kansas_City_MO,39.0997,-94.5786,Midwest,950000,San Jose,37.3382,-121.8863,West,2384.65,Express,2,11.16
+Kansas_City_MO,39.0997,-94.5786,Midwest,950000,San Jose,37.3382,-121.8863,West,2384.65,Overnight,1,18.6
+Kansas_City_MO,39.0997,-94.5786,Midwest,950000,Austin,30.2672,-97.7431,South,1023.67,Standard,5,2.25
+Kansas_City_MO,39.0997,-94.5786,Midwest,950000,Austin,30.2672,-97.7431,South,1023.67,Express,2,4.05
+Kansas_City_MO,39.0997,-94.5786,Midwest,950000,Austin,30.2672,-97.7431,South,1023.67,Overnight,1,6.76
+Kansas_City_MO,39.0997,-94.5786,Midwest,950000,Jacksonville,30.3322,-81.6557,South,1528.72,Standard,5,3.36
+Kansas_City_MO,39.0997,-94.5786,Midwest,950000,Jacksonville,30.3322,-81.6557,South,1528.72,Express,2,6.05
+Kansas_City_MO,39.0997,-94.5786,Midwest,950000,Jacksonville,30.3322,-81.6557,South,1528.72,Overnight,1,10.09
+Kansas_City_MO,39.0997,-94.5786,Midwest,950000,Fort Worth,32.7555,-97.3308,South,747.59,Standard,5,1.5
+Kansas_City_MO,39.0997,-94.5786,Midwest,950000,Fort Worth,32.7555,-97.3308,South,747.59,Express,2,2.69
+Kansas_City_MO,39.0997,-94.5786,Midwest,950000,Fort Worth,32.7555,-97.3308,South,747.59,Overnight,1,4.49
+Kansas_City_MO,39.0997,-94.5786,Midwest,950000,Columbus,39.9612,-82.9988,Midwest,997.02,Standard,5,1.99
+Kansas_City_MO,39.0997,-94.5786,Midwest,950000,Columbus,39.9612,-82.9988,Midwest,997.02,Express,2,3.59
+Kansas_City_MO,39.0997,-94.5786,Midwest,950000,Columbus,39.9612,-82.9988,Midwest,997.02,Overnight,1,5.98
+Kansas_City_MO,39.0997,-94.5786,Midwest,950000,Charlotte,35.2271,-80.8431,South,1289.47,Standard,5,2.84
+Kansas_City_MO,39.0997,-94.5786,Midwest,950000,Charlotte,35.2271,-80.8431,South,1289.47,Express,2,5.11
+Kansas_City_MO,39.0997,-94.5786,Midwest,950000,Charlotte,35.2271,-80.8431,South,1289.47,Overnight,1,8.51
+Kansas_City_MO,39.0997,-94.5786,Midwest,950000,Seattle,47.6062,-122.3321,West,2418.55,Standard,5,6.29
+Kansas_City_MO,39.0997,-94.5786,Midwest,950000,Seattle,47.6062,-122.3321,West,2418.55,Express,2,11.32
+Kansas_City_MO,39.0997,-94.5786,Midwest,950000,Seattle,47.6062,-122.3321,West,2418.55,Overnight,1,18.86
+Kansas_City_MO,39.0997,-94.5786,Midwest,950000,Denver,39.7392,-104.9903,West,896.68,Standard,5,1.79
+Kansas_City_MO,39.0997,-94.5786,Midwest,950000,Denver,39.7392,-104.9903,West,896.68,Express,2,3.23
+Kansas_City_MO,39.0997,-94.5786,Midwest,950000,Denver,39.7392,-104.9903,West,896.68,Overnight,1,5.38
+Kansas_City_MO,39.0997,-94.5786,Midwest,950000,Boston,42.3601,-71.0589,Northeast,2007.99,Standard,5,5.22
+Kansas_City_MO,39.0997,-94.5786,Midwest,950000,Boston,42.3601,-71.0589,Northeast,2007.99,Express,2,9.4
+Kansas_City_MO,39.0997,-94.5786,Midwest,950000,Boston,42.3601,-71.0589,Northeast,2007.99,Overnight,1,15.66
+Kansas_City_MO,39.0997,-94.5786,Midwest,950000,Nashville,36.1627,-86.7816,South,759.96,Standard,5,1.52
+Kansas_City_MO,39.0997,-94.5786,Midwest,950000,Nashville,36.1627,-86.7816,South,759.96,Express,2,2.74
+Kansas_City_MO,39.0997,-94.5786,Midwest,950000,Nashville,36.1627,-86.7816,South,759.96,Overnight,1,4.56
+Kansas_City_MO,39.0997,-94.5786,Midwest,950000,Detroit,42.3314,-83.0458,Midwest,1035.25,Standard,5,2.28
+Kansas_City_MO,39.0997,-94.5786,Midwest,950000,Detroit,42.3314,-83.0458,Midwest,1035.25,Express,2,4.1
+Kansas_City_MO,39.0997,-94.5786,Midwest,950000,Detroit,42.3314,-83.0458,Midwest,1035.25,Overnight,1,6.83
+Columbus_OH,39.9612,-82.9988,Midwest,1000000,New York,40.7128,-74.006,Northeast,766.44,Standard,5,1.53
+Columbus_OH,39.9612,-82.9988,Midwest,1000000,New York,40.7128,-74.006,Northeast,766.44,Express,2,2.76
+Columbus_OH,39.9612,-82.9988,Midwest,1000000,New York,40.7128,-74.006,Northeast,766.44,Overnight,1,4.6
+Columbus_OH,39.9612,-82.9988,Midwest,1000000,Los Angeles,34.0522,-118.2437,West,3176.25,Standard,5,8.26
+Columbus_OH,39.9612,-82.9988,Midwest,1000000,Los Angeles,34.0522,-118.2437,West,3176.25,Express,2,14.86
+Columbus_OH,39.9612,-82.9988,Midwest,1000000,Los Angeles,34.0522,-118.2437,West,3176.25,Overnight,1,24.77
+Columbus_OH,39.9612,-82.9988,Midwest,1000000,Chicago,41.8781,-87.6298,Midwest,443.57,Standard,5,0.89
+Columbus_OH,39.9612,-82.9988,Midwest,1000000,Chicago,41.8781,-87.6298,Midwest,443.57,Express,2,1.6
+Columbus_OH,39.9612,-82.9988,Midwest,1000000,Chicago,41.8781,-87.6298,Midwest,443.57,Overnight,1,2.66
+Columbus_OH,39.9612,-82.9988,Midwest,1000000,Houston,29.7604,-95.3698,South,1597.1,Standard,5,3.51
+Columbus_OH,39.9612,-82.9988,Midwest,1000000,Houston,29.7604,-95.3698,South,1597.1,Express,2,6.32
+Columbus_OH,39.9612,-82.9988,Midwest,1000000,Houston,29.7604,-95.3698,South,1597.1,Overnight,1,10.54
+Columbus_OH,39.9612,-82.9988,Midwest,1000000,Phoenix,33.4484,-112.074,West,2677.93,Standard,5,6.96
+Columbus_OH,39.9612,-82.9988,Midwest,1000000,Phoenix,33.4484,-112.074,West,2677.93,Express,2,12.53
+Columbus_OH,39.9612,-82.9988,Midwest,1000000,Phoenix,33.4484,-112.074,West,2677.93,Overnight,1,20.89
+Columbus_OH,39.9612,-82.9988,Midwest,1000000,Philadelphia,39.9526,-75.1652,Northeast,667.48,Standard,5,1.33
+Columbus_OH,39.9612,-82.9988,Midwest,1000000,Philadelphia,39.9526,-75.1652,Northeast,667.48,Express,2,2.4
+Columbus_OH,39.9612,-82.9988,Midwest,1000000,Philadelphia,39.9526,-75.1652,Northeast,667.48,Overnight,1,4.0
+Columbus_OH,39.9612,-82.9988,Midwest,1000000,San Antonio,29.4241,-98.4936,South,1833.54,Standard,5,4.03
+Columbus_OH,39.9612,-82.9988,Midwest,1000000,San Antonio,29.4241,-98.4936,South,1833.54,Express,2,7.26
+Columbus_OH,39.9612,-82.9988,Midwest,1000000,San Antonio,29.4241,-98.4936,South,1833.54,Overnight,1,12.1
+Columbus_OH,39.9612,-82.9988,Midwest,1000000,San Diego,32.7157,-117.1611,West,3143.29,Standard,5,8.17
+Columbus_OH,39.9612,-82.9988,Midwest,1000000,San Diego,32.7157,-117.1611,West,3143.29,Express,2,14.71
+Columbus_OH,39.9612,-82.9988,Midwest,1000000,San Diego,32.7157,-117.1611,West,3143.29,Overnight,1,24.52
+Columbus_OH,39.9612,-82.9988,Midwest,1000000,Dallas,32.7767,-96.797,South,1468.55,Standard,5,3.23
+Columbus_OH,39.9612,-82.9988,Midwest,1000000,Dallas,32.7767,-96.797,South,1468.55,Express,2,5.82
+Columbus_OH,39.9612,-82.9988,Midwest,1000000,Dallas,32.7767,-96.797,South,1468.55,Overnight,1,9.69
+Columbus_OH,39.9612,-82.9988,Midwest,1000000,San Jose,37.3382,-121.8863,West,3362.88,Standard,5,8.74
+Columbus_OH,39.9612,-82.9988,Midwest,1000000,San Jose,37.3382,-121.8863,West,3362.88,Express,2,15.74
+Columbus_OH,39.9612,-82.9988,Midwest,1000000,San Jose,37.3382,-121.8863,West,3362.88,Overnight,1,26.23
+Columbus_OH,39.9612,-82.9988,Midwest,1000000,Austin,30.2672,-97.7431,South,1716.55,Standard,5,3.78
+Columbus_OH,39.9612,-82.9988,Midwest,1000000,Austin,30.2672,-97.7431,South,1716.55,Express,2,6.8
+Columbus_OH,39.9612,-82.9988,Midwest,1000000,Austin,30.2672,-97.7431,South,1716.55,Overnight,1,11.33
+Columbus_OH,39.9612,-82.9988,Midwest,1000000,Jacksonville,30.3322,-81.6557,South,1077.6,Standard,5,2.37
+Columbus_OH,39.9612,-82.9988,Midwest,1000000,Jacksonville,30.3322,-81.6557,South,1077.6,Express,2,4.27
+Columbus_OH,39.9612,-82.9988,Midwest,1000000,Jacksonville,30.3322,-81.6557,South,1077.6,Overnight,1,7.11
+Columbus_OH,39.9612,-82.9988,Midwest,1000000,Fort Worth,32.7555,-97.3308,South,1510.09,Standard,5,3.32
+Columbus_OH,39.9612,-82.9988,Midwest,1000000,Fort Worth,32.7555,-97.3308,South,1510.09,Express,2,5.98
+Columbus_OH,39.9612,-82.9988,Midwest,1000000,Fort Worth,32.7555,-97.3308,South,1510.09,Overnight,1,9.97
+Columbus_OH,39.9612,-82.9988,Midwest,1000000,Columbus,39.9612,-82.9988,Midwest,0.0,Standard,5,0.0
+Columbus_OH,39.9612,-82.9988,Midwest,1000000,Columbus,39.9612,-82.9988,Midwest,0.0,Express,2,0.0
+Columbus_OH,39.9612,-82.9988,Midwest,1000000,Columbus,39.9612,-82.9988,Midwest,0.0,Overnight,1,0.0
+Columbus_OH,39.9612,-82.9988,Midwest,1000000,Charlotte,35.2271,-80.8431,South,559.57,Standard,5,1.12
+Columbus_OH,39.9612,-82.9988,Midwest,1000000,Charlotte,35.2271,-80.8431,South,559.57,Express,2,2.01
+Columbus_OH,39.9612,-82.9988,Midwest,1000000,Charlotte,35.2271,-80.8431,South,559.57,Overnight,1,3.36
+Columbus_OH,39.9612,-82.9988,Midwest,1000000,Seattle,47.6062,-122.3321,West,3232.17,Standard,5,8.4
+Columbus_OH,39.9612,-82.9988,Midwest,1000000,Seattle,47.6062,-122.3321,West,3232.17,Express,2,15.13
+Columbus_OH,39.9612,-82.9988,Midwest,1000000,Seattle,47.6062,-122.3321,West,3232.17,Overnight,1,25.21
+Columbus_OH,39.9612,-82.9988,Midwest,1000000,Denver,39.7392,-104.9903,West,1872.73,Standard,5,4.12
+Columbus_OH,39.9612,-82.9988,Midwest,1000000,Denver,39.7392,-104.9903,West,1872.73,Express,2,7.42
+Columbus_OH,39.9612,-82.9988,Midwest,1000000,Denver,39.7392,-104.9903,West,1872.73,Overnight,1,12.36
+Columbus_OH,39.9612,-82.9988,Midwest,1000000,Boston,42.3601,-71.0589,Northeast,1033.54,Standard,5,2.27
+Columbus_OH,39.9612,-82.9988,Midwest,1000000,Boston,42.3601,-71.0589,Northeast,1033.54,Express,2,4.09
+Columbus_OH,39.9612,-82.9988,Midwest,1000000,Boston,42.3601,-71.0589,Northeast,1033.54,Overnight,1,6.82
+Columbus_OH,39.9612,-82.9988,Midwest,1000000,Nashville,36.1627,-86.7816,South,536.61,Standard,5,1.07
+Columbus_OH,39.9612,-82.9988,Midwest,1000000,Nashville,36.1627,-86.7816,South,536.61,Express,2,1.93
+Columbus_OH,39.9612,-82.9988,Midwest,1000000,Nashville,36.1627,-86.7816,South,536.61,Overnight,1,3.22
+Columbus_OH,39.9612,-82.9988,Midwest,1000000,Detroit,42.3314,-83.0458,Midwest,263.58,Standard,5,0.53
+Columbus_OH,39.9612,-82.9988,Midwest,1000000,Detroit,42.3314,-83.0458,Midwest,263.58,Express,2,0.95
+Columbus_OH,39.9612,-82.9988,Midwest,1000000,Detroit,42.3314,-83.0458,Midwest,263.58,Overnight,1,1.58
+Dallas_TX,32.7767,-96.797,South,1100000,New York,40.7128,-74.006,Northeast,2205.73,Standard,5,5.73
+Dallas_TX,32.7767,-96.797,South,1100000,New York,40.7128,-74.006,Northeast,2205.73,Express,2,10.32
+Dallas_TX,32.7767,-96.797,South,1100000,New York,40.7128,-74.006,Northeast,2205.73,Overnight,1,17.2
+Dallas_TX,32.7767,-96.797,South,1100000,Los Angeles,34.0522,-118.2437,West,1991.99,Standard,5,4.38
+Dallas_TX,32.7767,-96.797,South,1100000,Los Angeles,34.0522,-118.2437,West,1991.99,Express,2,7.89
+Dallas_TX,32.7767,-96.797,South,1100000,Los Angeles,34.0522,-118.2437,West,1991.99,Overnight,1,13.15
+Dallas_TX,32.7767,-96.797,South,1100000,Chicago,41.8781,-87.6298,Midwest,1294.96,Standard,5,2.85
+Dallas_TX,32.7767,-96.797,South,1100000,Chicago,41.8781,-87.6298,Midwest,1294.96,Express,2,5.13
+Dallas_TX,32.7767,-96.797,South,1100000,Chicago,41.8781,-87.6298,Midwest,1294.96,Overnight,1,8.55
+Dallas_TX,32.7767,-96.797,South,1100000,Houston,29.7604,-95.3698,South,361.78,Standard,5,0.72
+Dallas_TX,32.7767,-96.797,South,1100000,Houston,29.7604,-95.3698,South,361.78,Express,2,1.3
+Dallas_TX,32.7767,-96.797,South,1100000,Houston,29.7604,-95.3698,South,361.78,Overnight,1,2.17
+Dallas_TX,32.7767,-96.797,South,1100000,Phoenix,33.4484,-112.074,West,1423.53,Standard,5,3.13
+Dallas_TX,32.7767,-96.797,South,1100000,Phoenix,33.4484,-112.074,West,1423.53,Express,2,5.64
+Dallas_TX,32.7767,-96.797,South,1100000,Phoenix,33.4484,-112.074,West,1423.53,Overnight,1,9.4
+Dallas_TX,32.7767,-96.797,South,1100000,Philadelphia,39.9526,-75.1652,Northeast,2087.99,Standard,5,5.43
+Dallas_TX,32.7767,-96.797,South,1100000,Philadelphia,39.9526,-75.1652,Northeast,2087.99,Express,2,9.77
+Dallas_TX,32.7767,-96.797,South,1100000,Philadelphia,39.9526,-75.1652,Northeast,2087.99,Overnight,1,16.29
+Dallas_TX,32.7767,-96.797,South,1100000,San Antonio,29.4241,-98.4936,South,406.27,Standard,5,0.81
+Dallas_TX,32.7767,-96.797,South,1100000,San Antonio,29.4241,-98.4936,South,406.27,Express,2,1.46
+Dallas_TX,32.7767,-96.797,South,1100000,San Antonio,29.4241,-98.4936,South,406.27,Overnight,1,2.44
+Dallas_TX,32.7767,-96.797,South,1100000,San Diego,32.7157,-117.1611,West,1901.57,Standard,5,4.18
+Dallas_TX,32.7767,-96.797,South,1100000,San Diego,32.7157,-117.1611,West,1901.57,Express,2,7.53
+Dallas_TX,32.7767,-96.797,South,1100000,San Diego,32.7157,-117.1611,West,1901.57,Overnight,1,12.55
+Dallas_TX,32.7767,-96.797,South,1100000,Dallas,32.7767,-96.797,South,0.0,Standard,5,0.0
+Dallas_TX,32.7767,-96.797,South,1100000,Dallas,32.7767,-96.797,South,0.0,Express,2,0.0
+Dallas_TX,32.7767,-96.797,South,1100000,Dallas,32.7767,-96.797,South,0.0,Overnight,1,0.0
+Dallas_TX,32.7767,-96.797,South,1100000,San Jose,37.3382,-121.8863,West,2331.9,Standard,5,6.06
+Dallas_TX,32.7767,-96.797,South,1100000,San Jose,37.3382,-121.8863,West,2331.9,Express,2,10.91
+Dallas_TX,32.7767,-96.797,South,1100000,San Jose,37.3382,-121.8863,West,2331.9,Overnight,1,18.19
+Dallas_TX,32.7767,-96.797,South,1100000,Austin,30.2672,-97.7431,South,293.1,Standard,5,0.59
+Dallas_TX,32.7767,-96.797,South,1100000,Austin,30.2672,-97.7431,South,293.1,Express,2,1.06
+Dallas_TX,32.7767,-96.797,South,1100000,Austin,30.2672,-97.7431,South,293.1,Overnight,1,1.76
+Dallas_TX,32.7767,-96.797,South,1100000,Jacksonville,30.3322,-81.6557,South,1458.86,Standard,5,3.21
+Dallas_TX,32.7767,-96.797,South,1100000,Jacksonville,30.3322,-81.6557,South,1458.86,Express,2,5.78
+Dallas_TX,32.7767,-96.797,South,1100000,Jacksonville,30.3322,-81.6557,South,1458.86,Overnight,1,9.63
+Dallas_TX,32.7767,-96.797,South,1100000,Fort Worth,32.7555,-97.3308,South,49.97,Standard,5,0.1
+Dallas_TX,32.7767,-96.797,South,1100000,Fort Worth,32.7555,-97.3308,South,49.97,Express,2,0.18
+Dallas_TX,32.7767,-96.797,South,1100000,Fort Worth,32.7555,-97.3308,South,49.97,Overnight,1,0.3
+Dallas_TX,32.7767,-96.797,South,1100000,Columbus,39.9612,-82.9988,Midwest,1468.55,Standard,5,3.23
+Dallas_TX,32.7767,-96.797,South,1100000,Columbus,39.9612,-82.9988,Midwest,1468.55,Express,2,5.82
+Dallas_TX,32.7767,-96.797,South,1100000,Columbus,39.9612,-82.9988,Midwest,1468.55,Overnight,1,9.69
+Dallas_TX,32.7767,-96.797,South,1100000,Charlotte,35.2271,-80.8431,South,1493.97,Standard,5,3.29
+Dallas_TX,32.7767,-96.797,South,1100000,Charlotte,35.2271,-80.8431,South,1493.97,Express,2,5.92
+Dallas_TX,32.7767,-96.797,South,1100000,Charlotte,35.2271,-80.8431,South,1493.97,Overnight,1,9.86
+Dallas_TX,32.7767,-96.797,South,1100000,Seattle,47.6062,-122.3321,West,2703.33,Standard,5,7.03
+Dallas_TX,32.7767,-96.797,South,1100000,Seattle,47.6062,-122.3321,West,2703.33,Express,2,12.65
+Dallas_TX,32.7767,-96.797,South,1100000,Seattle,47.6062,-122.3321,West,2703.33,Overnight,1,21.09
+Dallas_TX,32.7767,-96.797,South,1100000,Denver,39.7392,-104.9903,West,1066.31,Standard,5,2.35
+Dallas_TX,32.7767,-96.797,South,1100000,Denver,39.7392,-104.9903,West,1066.31,Express,2,4.22
+Dallas_TX,32.7767,-96.797,South,1100000,Denver,39.7392,-104.9903,West,1066.31,Overnight,1,7.04
+Dallas_TX,32.7767,-96.797,South,1100000,Boston,42.3601,-71.0589,Northeast,2493.1,Standard,5,6.48
+Dallas_TX,32.7767,-96.797,South,1100000,Boston,42.3601,-71.0589,Northeast,2493.1,Express,2,11.67
+Dallas_TX,32.7767,-96.797,South,1100000,Boston,42.3601,-71.0589,Northeast,2493.1,Overnight,1,19.45
+Dallas_TX,32.7767,-96.797,South,1100000,Nashville,36.1627,-86.7816,South,991.69,Standard,5,1.98
+Dallas_TX,32.7767,-96.797,South,1100000,Nashville,36.1627,-86.7816,South,991.69,Express,2,3.57
+Dallas_TX,32.7767,-96.797,South,1100000,Nashville,36.1627,-86.7816,South,991.69,Overnight,1,5.95
+Dallas_TX,32.7767,-96.797,South,1100000,Detroit,42.3314,-83.0458,Midwest,1608.14,Standard,5,3.54
+Dallas_TX,32.7767,-96.797,South,1100000,Detroit,42.3314,-83.0458,Midwest,1608.14,Express,2,6.37
+Dallas_TX,32.7767,-96.797,South,1100000,Detroit,42.3314,-83.0458,Midwest,1608.14,Overnight,1,10.61
+Reno_NV,39.5296,-119.8138,West,1150000,New York,40.7128,-74.006,Northeast,3852.44,Standard,5,10.02
+Reno_NV,39.5296,-119.8138,West,1150000,New York,40.7128,-74.006,Northeast,3852.44,Express,2,18.03
+Reno_NV,39.5296,-119.8138,West,1150000,New York,40.7128,-74.006,Northeast,3852.44,Overnight,1,30.05
+Reno_NV,39.5296,-119.8138,West,1150000,Los Angeles,34.0522,-118.2437,West,624.87,Standard,5,1.25
+Reno_NV,39.5296,-119.8138,West,1150000,Los Angeles,34.0522,-118.2437,West,624.87,Express,2,2.25
+Reno_NV,39.5296,-119.8138,West,1150000,Los Angeles,34.0522,-118.2437,West,624.87,Overnight,1,3.75
+Reno_NV,39.5296,-119.8138,West,1150000,Chicago,41.8781,-87.6298,Midwest,2709.55,Standard,5,7.04
+Reno_NV,39.5296,-119.8138,West,1150000,Chicago,41.8781,-87.6298,Midwest,2709.55,Express,2,12.68
+Reno_NV,39.5296,-119.8138,West,1150000,Chicago,41.8781,-87.6298,Midwest,2709.55,Overnight,1,21.13
+Reno_NV,39.5296,-119.8138,West,1150000,Houston,29.7604,-95.3698,South,2475.05,Standard,5,6.44
+Reno_NV,39.5296,-119.8138,West,1150000,Houston,29.7604,-95.3698,South,2475.05,Express,2,11.58
+Reno_NV,39.5296,-119.8138,West,1150000,Houston,29.7604,-95.3698,South,2475.05,Overnight,1,19.31
+Reno_NV,39.5296,-119.8138,West,1150000,Phoenix,33.4484,-112.074,West,966.72,Standard,5,1.93
+Reno_NV,39.5296,-119.8138,West,1150000,Phoenix,33.4484,-112.074,West,966.72,Express,2,3.48
+Reno_NV,39.5296,-119.8138,West,1150000,Phoenix,33.4484,-112.074,West,966.72,Overnight,1,5.8
+Reno_NV,39.5296,-119.8138,West,1150000,Philadelphia,39.9526,-75.1652,Northeast,3777.02,Standard,5,9.82
+Reno_NV,39.5296,-119.8138,West,1150000,Philadelphia,39.9526,-75.1652,Northeast,3777.02,Express,2,17.68
+Reno_NV,39.5296,-119.8138,West,1150000,Philadelphia,39.9526,-75.1652,Northeast,3777.02,Overnight,1,29.46
+Reno_NV,39.5296,-119.8138,West,1150000,San Antonio,29.4241,-98.4936,South,2245.82,Standard,5,5.84
+Reno_NV,39.5296,-119.8138,West,1150000,San Antonio,29.4241,-98.4936,South,2245.82,Express,2,10.51
+Reno_NV,39.5296,-119.8138,West,1150000,San Antonio,29.4241,-98.4936,South,2245.82,Overnight,1,17.52
+Reno_NV,39.5296,-119.8138,West,1150000,San Diego,32.7157,-117.1611,West,794.14,Standard,5,1.59
+Reno_NV,39.5296,-119.8138,West,1150000,San Diego,32.7157,-117.1611,West,794.14,Express,2,2.86
+Reno_NV,39.5296,-119.8138,West,1150000,San Diego,32.7157,-117.1611,West,794.14,Overnight,1,4.76
+Reno_NV,39.5296,-119.8138,West,1150000,Dallas,32.7767,-96.797,South,2191.19,Standard,5,5.7
+Reno_NV,39.5296,-119.8138,West,1150000,Dallas,32.7767,-96.797,South,2191.19,Express,2,10.25
+Reno_NV,39.5296,-119.8138,West,1150000,Dallas,32.7767,-96.797,South,2191.19,Overnight,1,17.09
+Reno_NV,39.5296,-119.8138,West,1150000,San Jose,37.3382,-121.8863,West,303.23,Standard,5,0.61
+Reno_NV,39.5296,-119.8138,West,1150000,San Jose,37.3382,-121.8863,West,303.23,Express,2,1.09
+Reno_NV,39.5296,-119.8138,West,1150000,San Jose,37.3382,-121.8863,West,303.23,Overnight,1,1.82
+Reno_NV,39.5296,-119.8138,West,1150000,Austin,30.2672,-97.7431,South,2252.53,Standard,5,5.86
+Reno_NV,39.5296,-119.8138,West,1150000,Austin,30.2672,-97.7431,South,2252.53,Express,2,10.54
+Reno_NV,39.5296,-119.8138,West,1150000,Austin,30.2672,-97.7431,South,2252.53,Overnight,1,17.57
+Reno_NV,39.5296,-119.8138,West,1150000,Jacksonville,30.3322,-81.6557,South,3596.07,Standard,5,9.35
+Reno_NV,39.5296,-119.8138,West,1150000,Jacksonville,30.3322,-81.6557,South,3596.07,Express,2,16.83
+Reno_NV,39.5296,-119.8138,West,1150000,Jacksonville,30.3322,-81.6557,South,3596.07,Overnight,1,28.05
+Reno_NV,39.5296,-119.8138,West,1150000,Fort Worth,32.7555,-97.3308,South,2147.68,Standard,5,5.58
+Reno_NV,39.5296,-119.8138,West,1150000,Fort Worth,32.7555,-97.3308,South,2147.68,Express,2,10.05
+Reno_NV,39.5296,-119.8138,West,1150000,Fort Worth,32.7555,-97.3308,South,2147.68,Overnight,1,16.75
+Reno_NV,39.5296,-119.8138,West,1150000,Columbus,39.9612,-82.9988,Midwest,3125.28,Standard,5,8.13
+Reno_NV,39.5296,-119.8138,West,1150000,Columbus,39.9612,-82.9988,Midwest,3125.28,Express,2,14.63
+Reno_NV,39.5296,-119.8138,West,1150000,Columbus,39.9612,-82.9988,Midwest,3125.28,Overnight,1,24.38
+Reno_NV,39.5296,-119.8138,West,1150000,Charlotte,35.2271,-80.8431,South,3449.42,Standard,5,8.97
+Reno_NV,39.5296,-119.8138,West,1150000,Charlotte,35.2271,-80.8431,South,3449.42,Express,2,16.14
+Reno_NV,39.5296,-119.8138,West,1150000,Charlotte,35.2271,-80.8431,South,3449.42,Overnight,1,26.91
+Reno_NV,39.5296,-119.8138,West,1150000,Seattle,47.6062,-122.3321,West,920.57,Standard,5,1.84
+Reno_NV,39.5296,-119.8138,West,1150000,Seattle,47.6062,-122.3321,West,920.57,Express,2,3.31
+Reno_NV,39.5296,-119.8138,West,1150000,Seattle,47.6062,-122.3321,West,920.57,Overnight,1,5.52
+Reno_NV,39.5296,-119.8138,West,1150000,Denver,39.7392,-104.9903,West,1268.17,Standard,5,2.79
+Reno_NV,39.5296,-119.8138,West,1150000,Denver,39.7392,-104.9903,West,1268.17,Express,2,5.02
+Reno_NV,39.5296,-119.8138,West,1150000,Denver,39.7392,-104.9903,West,1268.17,Overnight,1,8.37
+Reno_NV,39.5296,-119.8138,West,1150000,Boston,42.3601,-71.0589,Northeast,4050.71,Standard,5,10.53
+Reno_NV,39.5296,-119.8138,West,1150000,Boston,42.3601,-71.0589,Northeast,4050.71,Express,2,18.96
+Reno_NV,39.5296,-119.8138,West,1150000,Boston,42.3601,-71.0589,Northeast,4050.71,Overnight,1,31.6
+Reno_NV,39.5296,-119.8138,West,1150000,Nashville,36.1627,-86.7816,South,2908.04,Standard,5,7.56
+Reno_NV,39.5296,-119.8138,West,1150000,Nashville,36.1627,-86.7816,South,2908.04,Express,2,13.61
+Reno_NV,39.5296,-119.8138,West,1150000,Nashville,36.1627,-86.7816,South,2908.04,Overnight,1,22.68
+Reno_NV,39.5296,-119.8138,West,1150000,Detroit,42.3314,-83.0458,Midwest,3080.36,Standard,5,8.01
+Reno_NV,39.5296,-119.8138,West,1150000,Detroit,42.3314,-83.0458,Midwest,3080.36,Express,2,14.42
+Reno_NV,39.5296,-119.8138,West,1150000,Detroit,42.3314,-83.0458,Midwest,3080.36,Overnight,1,24.03
+Phoenix_AZ,33.4484,-112.074,West,1050000,New York,40.7128,-74.006,Northeast,3443.7,Standard,5,8.95
+Phoenix_AZ,33.4484,-112.074,West,1050000,New York,40.7128,-74.006,Northeast,3443.7,Express,2,16.12
+Phoenix_AZ,33.4484,-112.074,West,1050000,New York,40.7128,-74.006,Northeast,3443.7,Overnight,1,26.86
+Phoenix_AZ,33.4484,-112.074,West,1050000,Los Angeles,34.0522,-118.2437,West,574.27,Standard,5,1.15
+Phoenix_AZ,33.4484,-112.074,West,1050000,Los Angeles,34.0522,-118.2437,West,574.27,Express,2,2.07
+Phoenix_AZ,33.4484,-112.074,West,1050000,Los Angeles,34.0522,-118.2437,West,574.27,Overnight,1,3.45
+Phoenix_AZ,33.4484,-112.074,West,1050000,Chicago,41.8781,-87.6298,Midwest,2336.34,Standard,5,6.07
+Phoenix_AZ,33.4484,-112.074,West,1050000,Chicago,41.8781,-87.6298,Midwest,2336.34,Express,2,10.93
+Phoenix_AZ,33.4484,-112.074,West,1050000,Chicago,41.8781,-87.6298,Midwest,2336.34,Overnight,1,18.22
+Phoenix_AZ,33.4484,-112.074,West,1050000,Houston,29.7604,-95.3698,South,1632.17,Standard,5,3.59
+Phoenix_AZ,33.4484,-112.074,West,1050000,Houston,29.7604,-95.3698,South,1632.17,Express,2,6.46
+Phoenix_AZ,33.4484,-112.074,West,1050000,Houston,29.7604,-95.3698,South,1632.17,Overnight,1,10.77
+Phoenix_AZ,33.4484,-112.074,West,1050000,Phoenix,33.4484,-112.074,West,0.0,Standard,5,0.0
+Phoenix_AZ,33.4484,-112.074,West,1050000,Phoenix,33.4484,-112.074,West,0.0,Express,2,0.0
+Phoenix_AZ,33.4484,-112.074,West,1050000,Phoenix,33.4484,-112.074,West,0.0,Overnight,1,0.0
+Phoenix_AZ,33.4484,-112.074,West,1050000,Philadelphia,39.9526,-75.1652,Northeast,3344.07,Standard,5,8.69
+Phoenix_AZ,33.4484,-112.074,West,1050000,Philadelphia,39.9526,-75.1652,Northeast,3344.07,Express,2,15.65
+Phoenix_AZ,33.4484,-112.074,West,1050000,Philadelphia,39.9526,-75.1652,Northeast,3344.07,Overnight,1,26.08
+Phoenix_AZ,33.4484,-112.074,West,1050000,San Antonio,29.4241,-98.4936,South,1362.61,Standard,5,3.0
+Phoenix_AZ,33.4484,-112.074,West,1050000,San Antonio,29.4241,-98.4936,South,1362.61,Express,2,5.4
+Phoenix_AZ,33.4484,-112.074,West,1050000,San Antonio,29.4241,-98.4936,South,1362.61,Overnight,1,8.99
+Phoenix_AZ,33.4484,-112.074,West,1050000,San Diego,32.7157,-117.1611,West,480.86,Standard,5,0.96
+Phoenix_AZ,33.4484,-112.074,West,1050000,San Diego,32.7157,-117.1611,West,480.86,Express,2,1.73
+Phoenix_AZ,33.4484,-112.074,West,1050000,San Diego,32.7157,-117.1611,West,480.86,Overnight,1,2.89
+Phoenix_AZ,33.4484,-112.074,West,1050000,Dallas,32.7767,-96.797,South,1423.53,Standard,5,3.13
+Phoenix_AZ,33.4484,-112.074,West,1050000,Dallas,32.7767,-96.797,South,1423.53,Express,2,5.64
+Phoenix_AZ,33.4484,-112.074,West,1050000,Dallas,32.7767,-96.797,South,1423.53,Overnight,1,9.4
+Phoenix_AZ,33.4484,-112.074,West,1050000,San Jose,37.3382,-121.8863,West,988.32,Standard,5,1.98
+Phoenix_AZ,33.4484,-112.074,West,1050000,San Jose,37.3382,-121.8863,West,988.32,Express,2,3.56
+Phoenix_AZ,33.4484,-112.074,West,1050000,San Jose,37.3382,-121.8863,West,988.32,Overnight,1,5.93
+Phoenix_AZ,33.4484,-112.074,West,1050000,Austin,30.2672,-97.7431,South,1397.62,Standard,5,3.07
+Phoenix_AZ,33.4484,-112.074,West,1050000,Austin,30.2672,-97.7431,South,1397.62,Express,2,5.53
+Phoenix_AZ,33.4484,-112.074,West,1050000,Austin,30.2672,-97.7431,South,1397.62,Overnight,1,9.22
+Phoenix_AZ,33.4484,-112.074,West,1050000,Jacksonville,30.3322,-81.6557,South,2882.37,Standard,5,7.49
+Phoenix_AZ,33.4484,-112.074,West,1050000,Jacksonville,30.3322,-81.6557,South,2882.37,Express,2,13.49
+Phoenix_AZ,33.4484,-112.074,West,1050000,Jacksonville,30.3322,-81.6557,South,2882.37,Overnight,1,22.48
+Phoenix_AZ,33.4484,-112.074,West,1050000,Fort Worth,32.7555,-97.3308,South,1374.31,Standard,5,3.02
+Phoenix_AZ,33.4484,-112.074,West,1050000,Fort Worth,32.7555,-97.3308,South,1374.31,Express,2,5.44
+Phoenix_AZ,33.4484,-112.074,West,1050000,Fort Worth,32.7555,-97.3308,South,1374.31,Overnight,1,9.07
+Phoenix_AZ,33.4484,-112.074,West,1050000,Columbus,39.9612,-82.9988,Midwest,2677.93,Standard,5,6.96
+Phoenix_AZ,33.4484,-112.074,West,1050000,Columbus,39.9612,-82.9988,Midwest,2677.93,Express,2,12.53
+Phoenix_AZ,33.4484,-112.074,West,1050000,Columbus,39.9612,-82.9988,Midwest,2677.93,Overnight,1,20.89
+Phoenix_AZ,33.4484,-112.074,West,1050000,Charlotte,35.2271,-80.8431,South,2862.56,Standard,5,7.44
+Phoenix_AZ,33.4484,-112.074,West,1050000,Charlotte,35.2271,-80.8431,South,2862.56,Express,2,13.4
+Phoenix_AZ,33.4484,-112.074,West,1050000,Charlotte,35.2271,-80.8431,South,2862.56,Overnight,1,22.33
+Phoenix_AZ,33.4484,-112.074,West,1050000,Seattle,47.6062,-122.3321,West,1793.58,Standard,5,3.95
+Phoenix_AZ,33.4484,-112.074,West,1050000,Seattle,47.6062,-122.3321,West,1793.58,Express,2,7.1
+Phoenix_AZ,33.4484,-112.074,West,1050000,Seattle,47.6062,-122.3321,West,1793.58,Overnight,1,11.84
+Phoenix_AZ,33.4484,-112.074,West,1050000,Denver,39.7392,-104.9903,West,942.34,Standard,5,1.88
+Phoenix_AZ,33.4484,-112.074,West,1050000,Denver,39.7392,-104.9903,West,942.34,Express,2,3.39
+Phoenix_AZ,33.4484,-112.074,West,1050000,Denver,39.7392,-104.9903,West,942.34,Overnight,1,5.65
+Phoenix_AZ,33.4484,-112.074,West,1050000,Boston,42.3601,-71.0589,Northeast,3693.71,Standard,5,9.6
+Phoenix_AZ,33.4484,-112.074,West,1050000,Boston,42.3601,-71.0589,Northeast,3693.71,Express,2,17.29
+Phoenix_AZ,33.4484,-112.074,West,1050000,Boston,42.3601,-71.0589,Northeast,3693.71,Overnight,1,28.81
+Phoenix_AZ,33.4484,-112.074,West,1050000,Nashville,36.1627,-86.7816,South,2322.21,Standard,5,6.04
+Phoenix_AZ,33.4484,-112.074,West,1050000,Nashville,36.1627,-86.7816,South,2322.21,Express,2,10.87
+Phoenix_AZ,33.4484,-112.074,West,1050000,Nashville,36.1627,-86.7816,South,2322.21,Overnight,1,18.11
+Phoenix_AZ,33.4484,-112.074,West,1050000,Detroit,42.3314,-83.0458,Midwest,2715.67,Standard,5,7.06
+Phoenix_AZ,33.4484,-112.074,West,1050000,Detroit,42.3314,-83.0458,Midwest,2715.67,Express,2,12.71
+Phoenix_AZ,33.4484,-112.074,West,1050000,Detroit,42.3314,-83.0458,Midwest,2715.67,Overnight,1,21.18
+Harrisburg_PA,40.2732,-76.8867,Northeast,1100000,New York,40.7128,-74.006,Northeast,248.44,Standard,5,0.5
+Harrisburg_PA,40.2732,-76.8867,Northeast,1100000,New York,40.7128,-74.006,Northeast,248.44,Express,2,0.89
+Harrisburg_PA,40.2732,-76.8867,Northeast,1100000,New York,40.7128,-74.006,Northeast,248.44,Overnight,1,1.49
+Harrisburg_PA,40.2732,-76.8867,Northeast,1100000,Los Angeles,34.0522,-118.2437,West,3695.22,Standard,5,9.61
+Harrisburg_PA,40.2732,-76.8867,Northeast,1100000,Los Angeles,34.0522,-118.2437,West,3695.22,Express,2,17.29
+Harrisburg_PA,40.2732,-76.8867,Northeast,1100000,Los Angeles,34.0522,-118.2437,West,3695.22,Overnight,1,28.82
+Harrisburg_PA,40.2732,-76.8867,Northeast,1100000,Chicago,41.8781,-87.6298,Midwest,917.38,Standard,5,1.83
+Harrisburg_PA,40.2732,-76.8867,Northeast,1100000,Chicago,41.8781,-87.6298,Midwest,917.38,Express,2,3.3
+Harrisburg_PA,40.2732,-76.8867,Northeast,1100000,Chicago,41.8781,-87.6298,Midwest,917.38,Overnight,1,5.5
+Harrisburg_PA,40.2732,-76.8867,Northeast,1100000,Houston,29.7604,-95.3698,South,2042.5,Standard,5,5.31
+Harrisburg_PA,40.2732,-76.8867,Northeast,1100000,Houston,29.7604,-95.3698,South,2042.5,Express,2,9.56
+Harrisburg_PA,40.2732,-76.8867,Northeast,1100000,Houston,29.7604,-95.3698,South,2042.5,Overnight,1,15.93
+Harrisburg_PA,40.2732,-76.8867,Northeast,1100000,Phoenix,33.4484,-112.074,West,3198.69,Standard,5,8.32
+Harrisburg_PA,40.2732,-76.8867,Northeast,1100000,Phoenix,33.4484,-112.074,West,3198.69,Express,2,14.97
+Harrisburg_PA,40.2732,-76.8867,Northeast,1100000,Phoenix,33.4484,-112.074,West,3198.69,Overnight,1,24.95
+Harrisburg_PA,40.2732,-76.8867,Northeast,1100000,Philadelphia,39.9526,-75.1652,Northeast,150.67,Standard,5,0.3
+Harrisburg_PA,40.2732,-76.8867,Northeast,1100000,Philadelphia,39.9526,-75.1652,Northeast,150.67,Express,2,0.54
+Harrisburg_PA,40.2732,-76.8867,Northeast,1100000,Philadelphia,39.9526,-75.1652,Northeast,150.67,Overnight,1,0.9
+Harrisburg_PA,40.2732,-76.8867,Northeast,1100000,San Antonio,29.4241,-98.4936,South,2302.0,Standard,5,5.99
+Harrisburg_PA,40.2732,-76.8867,Northeast,1100000,San Antonio,29.4241,-98.4936,South,2302.0,Express,2,10.77
+Harrisburg_PA,40.2732,-76.8867,Northeast,1100000,San Antonio,29.4241,-98.4936,South,2302.0,Overnight,1,17.96
+Harrisburg_PA,40.2732,-76.8867,Northeast,1100000,San Diego,32.7157,-117.1611,West,3663.85,Standard,5,9.53
+Harrisburg_PA,40.2732,-76.8867,Northeast,1100000,San Diego,32.7157,-117.1611,West,3663.85,Express,2,17.15
+Harrisburg_PA,40.2732,-76.8867,Northeast,1100000,San Diego,32.7157,-117.1611,West,3663.85,Overnight,1,28.58
+Harrisburg_PA,40.2732,-76.8867,Northeast,1100000,Dallas,32.7767,-96.797,South,1958.76,Standard,5,4.31
+Harrisburg_PA,40.2732,-76.8867,Northeast,1100000,Dallas,32.7767,-96.797,South,1958.76,Express,2,7.76
+Harrisburg_PA,40.2732,-76.8867,Northeast,1100000,Dallas,32.7767,-96.797,South,1958.76,Overnight,1,12.93
+Harrisburg_PA,40.2732,-76.8867,Northeast,1100000,San Jose,37.3382,-121.8863,West,3871.05,Standard,5,10.06
+Harrisburg_PA,40.2732,-76.8867,Northeast,1100000,San Jose,37.3382,-121.8863,West,3871.05,Express,2,18.12
+Harrisburg_PA,40.2732,-76.8867,Northeast,1100000,San Jose,37.3382,-121.8863,West,3871.05,Overnight,1,30.19
+Harrisburg_PA,40.2732,-76.8867,Northeast,1100000,Austin,30.2672,-97.7431,South,2187.88,Standard,5,5.69
+Harrisburg_PA,40.2732,-76.8867,Northeast,1100000,Austin,30.2672,-97.7431,South,2187.88,Express,2,10.24
+Harrisburg_PA,40.2732,-76.8867,Northeast,1100000,Austin,30.2672,-97.7431,South,2187.88,Overnight,1,17.07
+Harrisburg_PA,40.2732,-76.8867,Northeast,1100000,Jacksonville,30.3322,-81.6557,South,1186.58,Standard,5,2.61
+Harrisburg_PA,40.2732,-76.8867,Northeast,1100000,Jacksonville,30.3322,-81.6557,South,1186.58,Express,2,4.7
+Harrisburg_PA,40.2732,-76.8867,Northeast,1100000,Jacksonville,30.3322,-81.6557,South,1186.58,Overnight,1,7.83
+Harrisburg_PA,40.2732,-76.8867,Northeast,1100000,Fort Worth,32.7555,-97.3308,South,2002.9,Standard,5,5.21
+Harrisburg_PA,40.2732,-76.8867,Northeast,1100000,Fort Worth,32.7555,-97.3308,South,2002.9,Express,2,9.37
+Harrisburg_PA,40.2732,-76.8867,Northeast,1100000,Fort Worth,32.7555,-97.3308,South,2002.9,Overnight,1,15.62
+Harrisburg_PA,40.2732,-76.8867,Northeast,1100000,Columbus,39.9612,-82.9988,Midwest,520.79,Standard,5,1.04
+Harrisburg_PA,40.2732,-76.8867,Northeast,1100000,Columbus,39.9612,-82.9988,Midwest,520.79,Express,2,1.87
+Harrisburg_PA,40.2732,-76.8867,Northeast,1100000,Columbus,39.9612,-82.9988,Midwest,520.79,Overnight,1,3.12
+Harrisburg_PA,40.2732,-76.8867,Northeast,1100000,Charlotte,35.2271,-80.8431,South,660.0,Standard,5,1.32
+Harrisburg_PA,40.2732,-76.8867,Northeast,1100000,Charlotte,35.2271,-80.8431,South,660.0,Express,2,2.38
+Harrisburg_PA,40.2732,-76.8867,Northeast,1100000,Charlotte,35.2271,-80.8431,South,660.0,Overnight,1,3.96
+Harrisburg_PA,40.2732,-76.8867,Northeast,1100000,Seattle,47.6062,-122.3321,West,3673.59,Standard,5,9.55
+Harrisburg_PA,40.2732,-76.8867,Northeast,1100000,Seattle,47.6062,-122.3321,West,3673.59,Express,2,17.19
+Harrisburg_PA,40.2732,-76.8867,Northeast,1100000,Seattle,47.6062,-122.3321,West,3673.59,Overnight,1,28.65
+Harrisburg_PA,40.2732,-76.8867,Northeast,1100000,Denver,39.7392,-104.9903,West,2384.32,Standard,5,6.2
+Harrisburg_PA,40.2732,-76.8867,Northeast,1100000,Denver,39.7392,-104.9903,West,2384.32,Express,2,11.16
+Harrisburg_PA,40.2732,-76.8867,Northeast,1100000,Denver,39.7392,-104.9903,West,2384.32,Overnight,1,18.6
+Harrisburg_PA,40.2732,-76.8867,Northeast,1100000,Boston,42.3601,-71.0589,Northeast,539.04,Standard,5,1.08
+Harrisburg_PA,40.2732,-76.8867,Northeast,1100000,Boston,42.3601,-71.0589,Northeast,539.04,Express,2,1.94
+Harrisburg_PA,40.2732,-76.8867,Northeast,1100000,Boston,42.3601,-71.0589,Northeast,539.04,Overnight,1,3.23
+Harrisburg_PA,40.2732,-76.8867,Northeast,1100000,Nashville,36.1627,-86.7816,South,977.0,Standard,5,1.95
+Harrisburg_PA,40.2732,-76.8867,Northeast,1100000,Nashville,36.1627,-86.7816,South,977.0,Express,2,3.52
+Harrisburg_PA,40.2732,-76.8867,Northeast,1100000,Nashville,36.1627,-86.7816,South,977.0,Overnight,1,5.86
+Harrisburg_PA,40.2732,-76.8867,Northeast,1100000,Detroit,42.3314,-83.0458,Midwest,562.92,Standard,5,1.13
+Harrisburg_PA,40.2732,-76.8867,Northeast,1100000,Detroit,42.3314,-83.0458,Midwest,562.92,Express,2,2.03
+Harrisburg_PA,40.2732,-76.8867,Northeast,1100000,Detroit,42.3314,-83.0458,Midwest,562.92,Overnight,1,3.38
+Allentown_PA,40.6023,-75.4714,Northeast,1050000,New York,40.7128,-74.006,Northeast,124.22,Standard,5,0.25
+Allentown_PA,40.6023,-75.4714,Northeast,1050000,New York,40.7128,-74.006,Northeast,124.22,Express,2,0.45
+Allentown_PA,40.6023,-75.4714,Northeast,1050000,New York,40.7128,-74.006,Northeast,124.22,Overnight,1,0.75
+Allentown_PA,40.6023,-75.4714,Northeast,1050000,Los Angeles,34.0522,-118.2437,West,3813.06,Standard,5,9.91
+Allentown_PA,40.6023,-75.4714,Northeast,1050000,Los Angeles,34.0522,-118.2437,West,3813.06,Express,2,17.85
+Allentown_PA,40.6023,-75.4714,Northeast,1050000,Los Angeles,34.0522,-118.2437,West,3813.06,Overnight,1,29.74
+Allentown_PA,40.6023,-75.4714,Northeast,1050000,Chicago,41.8781,-87.6298,Midwest,1025.56,Standard,5,2.26
+Allentown_PA,40.6023,-75.4714,Northeast,1050000,Chicago,41.8781,-87.6298,Midwest,1025.56,Express,2,4.06
+Allentown_PA,40.6023,-75.4714,Northeast,1050000,Chicago,41.8781,-87.6298,Midwest,1025.56,Overnight,1,6.77
+Allentown_PA,40.6023,-75.4714,Northeast,1050000,Houston,29.7604,-95.3698,South,2165.28,Standard,5,5.63
+Allentown_PA,40.6023,-75.4714,Northeast,1050000,Houston,29.7604,-95.3698,South,2165.28,Express,2,10.13
+Allentown_PA,40.6023,-75.4714,Northeast,1050000,Houston,29.7604,-95.3698,South,2165.28,Overnight,1,16.89
+Allentown_PA,40.6023,-75.4714,Northeast,1050000,Phoenix,33.4484,-112.074,West,3319.79,Standard,5,8.63
+Allentown_PA,40.6023,-75.4714,Northeast,1050000,Phoenix,33.4484,-112.074,West,3319.79,Express,2,15.54
+Allentown_PA,40.6023,-75.4714,Northeast,1050000,Phoenix,33.4484,-112.074,West,3319.79,Overnight,1,25.89
+Allentown_PA,40.6023,-75.4714,Northeast,1050000,Philadelphia,39.9526,-75.1652,Northeast,76.77,Standard,5,0.15
+Allentown_PA,40.6023,-75.4714,Northeast,1050000,Philadelphia,39.9526,-75.1652,Northeast,76.77,Express,2,0.28
+Allentown_PA,40.6023,-75.4714,Northeast,1050000,Philadelphia,39.9526,-75.1652,Northeast,76.77,Overnight,1,0.46
+Allentown_PA,40.6023,-75.4714,Northeast,1050000,San Antonio,29.4241,-98.4936,South,2426.24,Standard,5,6.31
+Allentown_PA,40.6023,-75.4714,Northeast,1050000,San Antonio,29.4241,-98.4936,South,2426.24,Express,2,11.35
+Allentown_PA,40.6023,-75.4714,Northeast,1050000,San Antonio,29.4241,-98.4936,South,2426.24,Overnight,1,18.92
+Allentown_PA,40.6023,-75.4714,Northeast,1050000,San Diego,32.7157,-117.1611,West,3783.67,Standard,5,9.84
+Allentown_PA,40.6023,-75.4714,Northeast,1050000,San Diego,32.7157,-117.1611,West,3783.67,Express,2,17.71
+Allentown_PA,40.6023,-75.4714,Northeast,1050000,San Diego,32.7157,-117.1611,West,3783.67,Overnight,1,29.51
+Allentown_PA,40.6023,-75.4714,Northeast,1050000,Dallas,32.7767,-96.797,South,2083.96,Standard,5,5.42
+Allentown_PA,40.6023,-75.4714,Northeast,1050000,Dallas,32.7767,-96.797,South,2083.96,Express,2,9.75
+Allentown_PA,40.6023,-75.4714,Northeast,1050000,Dallas,32.7767,-96.797,South,2083.96,Overnight,1,16.25
+Allentown_PA,40.6023,-75.4714,Northeast,1050000,San Jose,37.3382,-121.8863,West,3982.54,Standard,5,10.35
+Allentown_PA,40.6023,-75.4714,Northeast,1050000,San Jose,37.3382,-121.8863,West,3982.54,Express,2,18.64
+Allentown_PA,40.6023,-75.4714,Northeast,1050000,San Jose,37.3382,-121.8863,West,3982.54,Overnight,1,31.06
+Allentown_PA,40.6023,-75.4714,Northeast,1050000,Austin,30.2672,-97.7431,South,2312.34,Standard,5,6.01
+Allentown_PA,40.6023,-75.4714,Northeast,1050000,Austin,30.2672,-97.7431,South,2312.34,Express,2,10.82
+Allentown_PA,40.6023,-75.4714,Northeast,1050000,Austin,30.2672,-97.7431,South,2312.34,Overnight,1,18.04
+Allentown_PA,40.6023,-75.4714,Northeast,1050000,Jacksonville,30.3322,-81.6557,South,1271.05,Standard,5,2.8
+Allentown_PA,40.6023,-75.4714,Northeast,1050000,Jacksonville,30.3322,-81.6557,South,1271.05,Express,2,5.03
+Allentown_PA,40.6023,-75.4714,Northeast,1050000,Jacksonville,30.3322,-81.6557,South,1271.05,Overnight,1,8.39
+Allentown_PA,40.6023,-75.4714,Northeast,1050000,Fort Worth,32.7555,-97.3308,South,2128.13,Standard,5,5.53
+Allentown_PA,40.6023,-75.4714,Northeast,1050000,Fort Worth,32.7555,-97.3308,South,2128.13,Express,2,9.96
+Allentown_PA,40.6023,-75.4714,Northeast,1050000,Fort Worth,32.7555,-97.3308,South,2128.13,Overnight,1,16.6
+Allentown_PA,40.6023,-75.4714,Northeast,1050000,Columbus,39.9612,-82.9988,Midwest,642.3,Standard,5,1.28
+Allentown_PA,40.6023,-75.4714,Northeast,1050000,Columbus,39.9612,-82.9988,Midwest,642.3,Express,2,2.31
+Allentown_PA,40.6023,-75.4714,Northeast,1050000,Columbus,39.9612,-82.9988,Midwest,642.3,Overnight,1,3.85
+Allentown_PA,40.6023,-75.4714,Northeast,1050000,Charlotte,35.2271,-80.8431,South,760.77,Standard,5,1.52
+Allentown_PA,40.6023,-75.4714,Northeast,1050000,Charlotte,35.2271,-80.8431,South,760.77,Express,2,2.74
+Allentown_PA,40.6023,-75.4714,Northeast,1050000,Charlotte,35.2271,-80.8431,South,760.77,Overnight,1,4.56
+Allentown_PA,40.6023,-75.4714,Northeast,1050000,Seattle,47.6062,-122.3321,West,3762.08,Standard,5,9.78
+Allentown_PA,40.6023,-75.4714,Northeast,1050000,Seattle,47.6062,-122.3321,West,3762.08,Express,2,17.61
+Allentown_PA,40.6023,-75.4714,Northeast,1050000,Seattle,47.6062,-122.3321,West,3762.08,Overnight,1,29.34
+Allentown_PA,40.6023,-75.4714,Northeast,1050000,Denver,39.7392,-104.9903,West,2498.19,Standard,5,6.5
+Allentown_PA,40.6023,-75.4714,Northeast,1050000,Denver,39.7392,-104.9903,West,2498.19,Express,2,11.69
+Allentown_PA,40.6023,-75.4714,Northeast,1050000,Denver,39.7392,-104.9903,West,2498.19,Overnight,1,19.49
+Allentown_PA,40.6023,-75.4714,Northeast,1050000,Boston,42.3601,-71.0589,Northeast,416.24,Standard,5,0.83
+Allentown_PA,40.6023,-75.4714,Northeast,1050000,Boston,42.3601,-71.0589,Northeast,416.24,Express,2,1.5
+Allentown_PA,40.6023,-75.4714,Northeast,1050000,Boston,42.3601,-71.0589,Northeast,416.24,Overnight,1,2.5
+Allentown_PA,40.6023,-75.4714,Northeast,1050000,Nashville,36.1627,-86.7816,South,1101.35,Standard,5,2.42
+Allentown_PA,40.6023,-75.4714,Northeast,1050000,Nashville,36.1627,-86.7816,South,1101.35,Express,2,4.36
+Allentown_PA,40.6023,-75.4714,Northeast,1050000,Nashville,36.1627,-86.7816,South,1101.35,Overnight,1,7.27
+Allentown_PA,40.6023,-75.4714,Northeast,1050000,Detroit,42.3314,-83.0458,Midwest,659.49,Standard,5,1.32
+Allentown_PA,40.6023,-75.4714,Northeast,1050000,Detroit,42.3314,-83.0458,Midwest,659.49,Express,2,2.37
+Allentown_PA,40.6023,-75.4714,Northeast,1050000,Detroit,42.3314,-83.0458,Midwest,659.49,Overnight,1,3.96
